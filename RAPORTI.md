@@ -3,7 +3,7 @@
 Studenti:Kledian Miftari
 Grupi (nëse punohet në grup):
 Data: 11/11/2026
-GitHub-i im:
+GitHub-i im: https://github.com/kledian2/urbanbike-ai-student
 Figma:
 
 ## Qëllimi
